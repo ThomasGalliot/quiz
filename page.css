@@ -1,0 +1,30 @@
+body{
+    background: #ecdcdb8f;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.btn-group{
+    font-family: 'Neucha', cursive;
+    Font-Weight: Bold;
+}
+
+.phrases{
+    color: #e28282;
+    font-family: 'Kosugi', sans-serif;
+    margin-top: 90px;
+    Font-Weight: Bold;
+}
+
+.bonjour{
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    font-family: 'Rochester', cursive;
+}
+
+.pseudo{
+    font-family: 'Neucha', cursive;
+}
+
